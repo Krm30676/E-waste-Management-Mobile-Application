@@ -1,5 +1,5 @@
 
-# xyz
+# E-Waste Management Application
 
 A new Flutter project.
 
